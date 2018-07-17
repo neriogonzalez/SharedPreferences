@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+    <string name="EditText_Email">Ingresa tu Email</string>
+    <string name="Botón_Guardar">Guardar</string>
+</resources>
